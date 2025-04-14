@@ -1,10 +1,4 @@
----
-
-# 🌳 Adoptree – Adopt a Tree, Nurture the Planet
-
 Adoptree is a beautifully designed web application built with **React**, **Vite**, and **Tailwind CSS** that allows users to **adopt trees**, track their growth, and contribute to a greener planet.  
-
-Hosted live at: [https://adoptree.netlify.app](https://adoptree.netlify.app)
 
 ---
 
