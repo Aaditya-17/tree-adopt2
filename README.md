@@ -1,8 +1,74 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌳 Adoptree – Adopt a Tree, Nurture the Planet
 
-Currently, two official plugins are available:
+Adoptree is a beautifully designed web application built with **React**, **Vite**, and **Tailwind CSS** that allows users to **adopt trees**, track their growth, and contribute to a greener planet.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hosted live at: [https://adoptree.netlify.app](https://adoptree.netlify.app)
+
+---
+
+## 🚀 Features
+
+- 🌱 **Adopt a Tree** – Choose a tree to adopt and support its growth.
+- 🧾 **Tree Details** – View information about each tree species.
+- 📍 **Track Growth** – Visualize your tree's journey as it grows.
+- 🪁 **Social media** - Create daily post about your plant and share with others.
+- 🤖 **Google Gemini Chatbot Assistant** – Integrated AI chatbot to guide users and answer questions.
+- ⚡ **Lightning-fast** – Built using Vite for a blazing-fast development and loading experience.
+- 🎨 **Modern UI** – Responsive and clean user interface powered by Tailwind CSS.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** – For building dynamic UI components  
+- **Vite** – Lightning-fast frontend tooling  
+- **Tailwind CSS** – Utility-first CSS framework  
+- **Google Gemini** – AI chatbot for intelligent assistance  
+
+---
+
+## 📦 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clon https://github.com/Aaditya-17/tree-adopt2.git
+cd adoptree
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the Development Server
+
+```bash
+npm run dev
+```
+
+Your app should now be running at `http://localhost:5173` 🎉
+
+
+---
+
+## 📸 Screenshots
+
+### 🏡 Home Page
+![Home Page](./screenshots/Homepage1.png)
+---
+
+## 🙌 Contributing
+
+Contributions are welcome! If you'd like to help improve Adoptree:
+
+1. Fork this repo
+2. Create your branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Open a pull request
+
+---
