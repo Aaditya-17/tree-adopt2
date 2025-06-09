@@ -28,7 +28,7 @@ Adoptree is a beautifully designed web application built with **React**, **Vite*
 ### 1. Clone the Repository
 
 ```bash
-git clon https://github.com/Aaditya-17/tree-adopt2.git
+git clone https://github.com/Aaditya-17/tree-adopt2.git
 cd adoptree
 ```
 
